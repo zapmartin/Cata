@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 primera linea de codigo
 segunda linea de codigo
 tercera linea de codigo
+=======
+primera linea de codigo
+>>>>>>> e03c76b... añado el archivo MiPrimerArchivo.txt
